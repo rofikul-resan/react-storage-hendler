@@ -1,0 +1,80 @@
+[
+  {
+    "id": "641dd2850c6ef491d236eb49",
+    "index": 0,
+    "balance": "$1,532.47",
+    "age": 31,
+    "eyeColor": "blue",
+    "name": "Tammi Powell",
+    "gender": "female",
+    "company": "NEWCUBE",
+    "email": "tammipowell@newcube.com",
+    "phone": "+1 (872) 548-3717",
+    "address": "146 Meadow Street, Motley, Marshall Islands, 3324"
+  },
+  {
+    "id": "641dd2851516d96f285f9f93",
+    "index": 1,
+    "balance": "$1,796.59",
+    "age": 40,
+    "eyeColor": "green",
+    "name": "Lourdes Maldonado",
+    "gender": "female",
+    "company": "BLEENDOT",
+    "email": "lourdesmaldonado@bleendot.com",
+    "phone": "+1 (961) 548-2206",
+    "address": "349 Hart Place, Urie, Michigan, 2855"
+  },
+  {
+    "id": "641dd2857842c9340918a643",
+    "index": 2,
+    "balance": "$2,260.30",
+    "age": 28,
+    "eyeColor": "blue",
+    "name": "Dean Smith",
+    "gender": "male",
+    "company": "SEALOUD",
+    "email": "deansmith@sealoud.com",
+    "phone": "+1 (915) 598-2840",
+    "address": "671 Krier Place, Marysville, Florida, 7988"
+  },
+  {
+    "id": "641dd2856be506b7f20d8589",
+    "index": 3,
+    "balance": "$2,017.66",
+    "age": 27,
+    "eyeColor": "blue",
+    "name": "Price Black",
+    "gender": "male",
+    "company": "SUPREMIA",
+    "email": "priceblack@supremia.com",
+    "phone": "+1 (851) 433-2383",
+    "address": "864 Homecrest Court, Ronco, Ohio, 5080"
+  },
+  {
+    "id": "641dd2859c3cd8c2c2787e72",
+    "index": 4,
+    "balance": "$3,106.61",
+    "age": 32,
+    "eyeColor": "blue",
+    "name": "Carmela Berger",
+    "gender": "female",
+    "company": "COMTOURS",
+    "email": "carmelaberger@comtours.com",
+    "phone": "+1 (859) 507-2297",
+    "address": "100 Pershing Loop, Vincent, Puerto Rico, 8388"
+  },
+  {
+    "id": "641dd285268a6c7a952acdf5",
+    "index": 5,
+    "balance": "$2,875.58",
+    "age": 27,
+    "eyeColor": "blue",
+    "name": "Dillard Daniel",
+    "gender": "male",
+    "company": "MEDCOM",
+    "email": "dillarddaniel@medcom.com",
+    "phone": "+1 (841) 583-2982",
+    "address": "930 Noll Street, Wakulla, Maine, 1224"
+  }
+]
